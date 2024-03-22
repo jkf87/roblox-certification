@@ -1,0 +1,29 @@
+
+#certificate {
+    position: relative;
+    width: 100%;
+    max-width: 1248px;
+}
+
+#certificate img {
+    width: 100%;
+    height: auto;
+}
+
+#name {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#input-div {
+    margin-top: 20px;
+}
+
+#input-div input, #input-div button {
+    font-size: 20px;
+    padding: 10px;
+}
